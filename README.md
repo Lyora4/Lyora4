@@ -36,7 +36,7 @@ Whether you’re building your next startup or a side project, Lyora is here to:
 
 | Project | Description |
 |--------|-------------|
-| 🧠 `@lyora` Bot | Chat-based dev assistant to generate & explain code instantly |
+| 🧠 `@Shikimori` Bot | Chat-based dev assistant to generate & explain code instantly |
 | 🌐 Lyora Web | Online tool to build complete websites from prompt to deploy |
 | ⚙️ Code Engine | CLI + API that builds out folders, files, and snippets with one command |
 
