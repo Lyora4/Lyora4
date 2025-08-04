@@ -56,7 +56,6 @@ Whether you’re building your next startup or a side project, Lyora is here to:
 
 <p align="center">
   <a href="https://lyora.netlify.app/"><img src="https://img.shields.io/badge/Website-lyora.dev-FF69B4?style=for-the-badge&logo=web" /></a>
-</p>
   <a href="lyora34@outlook.com"><img src="https://img.shields.io/badge/Email-dev@lyora.dev-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/1kKyluesky"><img src="https://img.shields.io/badge/Twitter-@1kKyluesky-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
