@@ -1,4 +1,4 @@
-# 🤖🌐 Lyora — Developer Bot & Website Developer
+# HI i'm Lyora
 
 Lyora adalah asisten cerdas untuk developer, menggabungkan kekuatan **bot AI** dan **website generator** dalam satu platform. Dengan Lyora, kamu bisa membangun proyek web secara instan, membuat komponen UI, mengelola struktur kode, dan mempercepat pengembangan dengan bantuan perintah cerdas.
 
