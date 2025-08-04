@@ -1,31 +1,106 @@
-<h1 align="center">
-  <img src="https://media1.tenor.com/m/_YNfc8FDGQMAAAAC/scientist-anime-cute-girl.gif" width="400px" alt="anime scientist girl gif"/>
-</h1>
+# 🤖🌐 Lyora — Developer Bot & Website Developer
 
-<h3 align="center">🌸  Lyora — Backend Developer | Node.js Enthusiast 🌸</h3>
+Lyora adalah asisten cerdas untuk developer, menggabungkan kekuatan **bot AI** dan **website generator** dalam satu platform. Dengan Lyora, kamu bisa membangun proyek web secara instan, membuat komponen UI, mengelola struktur kode, dan mempercepat pengembangan dengan bantuan perintah cerdas.
 
-<p align="center">
-  <a href="mailto:kylueskyya@gmail.com">📩 Email</a> •
-  <a href="https://linkedin.com/in/lyora">LinkedIn</a> •
-  <a href="https://beacons.ai/Chisato">Portfolio</a>
-</p>
-
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/build-stable-brightgreen)
+![Powered By](https://img.shields.io/badge/powered%20by-Node.js-blue?logo=node.js)
+![Platform](https://img.shields.io/badge/platform-web%20%26%20bot-lightgrey)
 
 ---
 
-### 🧘‍♀️ About Me
+## ✨ Fitur Utama
 
-💻 Focused on building scalable APIs with Node.js  
-🧪 Backend lover who enjoys clean, testable code  
-🌱 Learning TypeScript, Docker & GraphQL  
-🌸 Anime lover — code by day, slice of life by night
+- 🤖 **Bot Developer** — bantu generate kode, debug, dan beri saran teknis
+- 🌐 **Website Generator** — buat website profesional secara otomatis
+- ⚡ **Code Snippet Engine** — hasilkan kode siap pakai sesuai kebutuhan
+- 🧠 **AI Commands** — cukup gunakan perintah seperti `@lyora create navbar`
+- 📁 **Manajemen Proyek** — struktur proyek modular & siap produksi
+- 🔌 **Integrasi API & CLI** — fleksibel untuk penggunaan lokal atau cloud
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📸 Cuplikan
 
-<div align="center">
-  <a href="https://open.spotify.com/user/313atqsgon5ordcyok4jzg62e2ie">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313atqsgon5ordcyok4jzg62e2ie&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+> *(Tambahkan screenshot proyek kamu di sini jika ada)*  
+> Contoh: `![Lyora Screenshot](./assets/screenshot.png)`
+
+---
+
+## 🚀 Cara Instalasi
+
+```bash
+# Clone repository
+git clone https://github.com/username/lyora.git
+cd lyora
+
+# Install dependencies
+npm install
+
+# Jalankan project
+npm run dev
+```
+
+---
+
+## 📁 Struktur Proyek
+
+```
+lyora/
+├── bot/                # Bot engine & command handler
+├── client/             # Website interface (React/Next.js)
+├── core/               # Logic utama & code generator
+├── public/             # Static files
+├── scripts/            # CLI & automation tools
+├── .env.example        # Contoh konfigurasi
+└── README.md
+```
+
+---
+
+## 🧪 Contoh Penggunaan
+
+- Di bot:
+```
+@lyora generate react login form with tailwind
+```
+
+- Di website:
+```
+Klik "Generate Project" → Pilih stack → Selesai!
+```
+
+---
+
+## 📚 Dokumentasi
+
+📖 https://lyora.dev/docs  
+📄 Wiki: https://github.com/username/lyora/wiki
+
+---
+
+## 🤝 Kontribusi
+
+Kami terbuka untuk kontribusi!
+
+```bash
+git checkout -b fitur-baru
+git commit -m "Menambahkan fitur X"
+git push origin fitur-baru
+```
+
+Lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan lengkap.
+
+---
+
+## 🛡️ Lisensi
+
+MIT License © 2025 [Lyora Developers](https://github.com/username/lyora)
+
+---
+
+## 👥 Tim & Kontak
+
+- Website: https://lyora.dev  
+- Email: dev@lyora.dev  
+- GitHub: [@lyora](https://github.com/username/lyora)
